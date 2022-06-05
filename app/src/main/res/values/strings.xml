@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MIST</string>
+    <string name="enter_feeling">Enter Feeling!!!</string>
+    <string name="enter_feelings">enter feelings!!!</string>
+    <string name="i_quot_ll_be_there_for_you_when_the_rain_starts_to_fall">I\"ll be there for you when the rain starts to fall !!</string>
+    <string name="pour_out_your_feelings_here">Pour out your feelings here.</string>
+
+
+</resources>
